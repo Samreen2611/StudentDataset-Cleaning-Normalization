@@ -1,4 +1,4 @@
-# Student Performance Analysis & preprocessing
+# Student Data Cleaning and Preprocessing
 
 A comprehensive Python and Jupyter Notebook repository dedicated to student academic data processing . This project implements data cleaning pipelines alongside multi-layered Artificial Neural Network (ANN) architectures built from scratch.
 
